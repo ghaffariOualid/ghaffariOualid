@@ -176,17 +176,25 @@ currently_mastering:
 
 ## 🎓 Education
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🎓 ENIADB — École Nationale de l'IA et du Digital de Berkane       │
-│     Diplôme d'Ingénieur en Intelligence Artificielle                │
-│     2023 – 2026                                                     │
-├─────────────────────────────────────────────────────────────────────┤
-│  🎓 FST Errachidia                                                  │
-│     DEUST MIP — Mention Bien                                        │
-│     2021 – 2023                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="left">
+
+### 🏫 ENIADB — École Nationale de l'IA et du Digital de Berkane
+**Engineering Degree in Artificial Intelligence**  
+`2023 — 2026`
+
+> Specialization in **Machine Learning**, **Data Engineering**, and **AI Systems**  
+> Focus on building intelligent, data-driven, and production-ready systems.
+
+<br/>
+
+### 🏫 FST Errachidia
+**DEUST MIP — With Honors (Mention Bien)**  
+`2021 — 2023`
+
+> Strong foundations in **Mathematics**, **Computer Science**, and **Physics**  
+> Algorithmic thinking, modeling, and problem solving.
+
+</div>
 
 ---
 
