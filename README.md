@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=80&lines=Salam!+👋;I'm+Oualid+Ghaffari!;Data+%26+AI+Engineer;Machine+Learning+%7C+LLM+%2F+RAG;Real-Time+Data+Engineering;Computer+Vision+%7C+OCR)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=100&lines=Salam!+👋;I'm+Oualid+Ghaffari!;Data+%26+AI+Engineer;Machine+Learning+%7C+LLM+%2F+RAG;Real-Time+Data+Engineering;Computer+Vision+%7C+OCR)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ghaffarioualid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghaffarioualid)
 [![GitHub](https://img.shields.io/badge/GitHub-ghaffariOualid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghaffariOualid)
@@ -51,53 +51,73 @@ currently_mastering:
 
 ### 🤖 ML & GenAI
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" title="Scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter"/>
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/CrewAI-6D28D9?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/PaddleOCR-0062B1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/QLoRA-8B5CF6?style=for-the-badge&logoColor=white"/>
 </p>
 
 **Core Capabilities:**
-- 🧠 **Models:** XGBoost, CNN, LSTM, QLoRA Fine-Tuning, Transformers
-- 🔗 **RAG & Agents:** LangChain, CrewAI, Vector Search, conversational memory
+- 🧠 **Models:** XGBoost, CNN, LSTM, QLoRA Fine-Tuning, Transformers, Scikit-learn
+- 🔗 **RAG & Agents:** LangChain, CrewAI, Vector Search, multi-agent systems
 - 🎙️ **GenAI:** STT/TTS integration, LLM agents, prompt engineering
-- 👁️ **Computer Vision:** PaddleOCR, document extraction, image preprocessing
+- 👁️ **Computer Vision:** PaddleOCR, document extraction, image preprocessing, CNN evaluation
 
 ### ⚡ Data Engineering
 <p align="left">
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="45" title="Apache Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" title="Apache Spark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="45" title="Hadoop / HDFS"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/HDFS-FF6C00?style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Talend-1798C1?style=for-the-badge&logoColor=white"/>
 </p>
 
 **Data at Scale:**
-- 🔄 **Streaming:** Apache Kafka, Spark Streaming — real-time ingestion pipelines
-- 🗄️ **Storage:** HDFS, SQL, Data Modeling
-- 📊 **Tracking:** MLflow experiments, Grafana monitoring
-- 🧹 **ETL:** Talend, data structuring, automated workflows
+- 🔄 **Streaming:** Apache Kafka + Spark Streaming — real-time ingestion pipelines
+- 🗄️ **Storage:** HDFS, SQL, Data Modeling, Parquet
+- 📊 **Tracking:** MLflow experiments, Grafana monitoring dashboards
+- 🧹 **ETL:** Talend, automated structuring & data workflows
 
 ### 🚀 Deployment & Dev
 <p align="left">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux"/>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="45" height="45"/>
+</a>
 </p>
 
 **Production Stack:**
-- ⚙️ **APIs:** FastAPI — REST endpoints, async, production-grade
+- ⚙️ **APIs:** FastAPI — async, REST, production-grade endpoints
 - 📦 **Containers:** Docker — reproducible, portable deployments
-- 🎨 **Frontend:** React + TypeScript — full-stack AI apps
-- 📊 **BI:** Power BI — dashboards & decision reporting
+- 🎨 **Frontend:** React + TypeScript — full-stack AI app delivery
+- 📊 **BI:** Power BI — reporting & decision dashboards
+
+### 🗄️ Databases & Analytics
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/>
+</p>
+
+**Analytics Stack:**
+- 🗃️ **Databases:** PostgreSQL, MySQL, MongoDB, SQL Server
+- 📊 **Visualization:** Power BI, Plotly, Matplotlib, Seaborn
+- 🔍 **Data Modeling:** SQL, dimensional modeling, ETL pipelines
 
 ---
 
@@ -124,7 +144,7 @@ currently_mastering:
 
 | Project | Stack | Description |
 |---|---|---|
-| 🔷 **FinStream CryptoOps** | `Kafka` `Spark` `MLflow` `Docker` `Grafana` | Real-time crypto analytics & market monitoring platform |
+| 🔷 **FinStream CryptoOps** | `Kafka` `Spark` `MLflow` `Docker` `Grafana` | Real-time crypto analytics & financial market monitoring |
 | 🧬 **HealthShield Federated AI** | `PyTorch` `Federated Learning` | Distributed training for sensitive medical data with privacy guarantees |
 | ⚡ **Energy Report Intelligence Agents** | `CrewAI` `RAG` `Vector Search` | Automated analysis of technical reports for energy sector decisions |
 | 🏥 **HealthAI Clinical Suite** | `QLoRA` `XGBoost` `Talend` `Power BI` | Medical chatbot + stroke risk prediction + clinical decision tools |
@@ -135,11 +155,11 @@ currently_mastering:
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaffariOualid&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff" alt="ghaffariOualid"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaffariOualid&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ghaffariOualid"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaffariOualid&theme=tokyonight&hide_border=true&background=0f0c29&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" alt="ghaffariOualid"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaffariOualid&theme=tokyonight&hide_border=true" alt="ghaffariOualid"/>
 </p>
 
 ---
