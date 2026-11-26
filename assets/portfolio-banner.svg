@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Oualid Ghaffari — Data &amp; AI Systems Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1320" />
+      <stop offset="55%" stop-color="#111E30" />
+      <stop offset="100%" stop-color="#182A40" />
+    </linearGradient>
+
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#D98A54" />
+      <stop offset="100%" stop-color="#9A4424" />
+    </linearGradient>
+
+    <radialGradient id="glow" cx="82%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#B54A23" stop-opacity="0.16" />
+      <stop offset="60%" stop-color="#1F6F54" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#0B1320" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#FFFFFF" stroke-width="0.6" stroke-opacity="0.045" />
+    </pattern>
+
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1200" height="300" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Background -->
+    <rect width="1200" height="300" fill="url(#bg)" />
+    <rect width="1200" height="300" fill="url(#grid)" />
+    <rect width="1200" height="300" fill="url(#glow)" />
+
+    <!-- Subtle left architectural terracotta accent -->
+    <rect x="0" y="0" width="6" height="300" fill="url(#accentLine)" />
+
+    <!-- Subtle Moroccan geometric diamond & node constellation on the right -->
+    <g transform="translate(970, 150)" fill="none">
+      <!-- Outer stepped diamond (Amazigh / Zellige nod) -->
+      <polygon points="0,-112 112,0 0,112 -112,0" stroke="#D98A54" stroke-opacity="0.22" stroke-width="1.2" />
+      <polygon points="0,-84 84,0 0,84 -84,0" stroke="#94A3B8" stroke-opacity="0.24" stroke-width="1" />
+      <polygon points="0,-54 54,0 0,54 -54,0" stroke="#D98A54" stroke-opacity="0.45" stroke-width="1.4" />
+      <polygon points="0,-24 24,0 0,24 -24,0" fill="#B54A23" fill-opacity="0.18" stroke="#D98A54" stroke-opacity="0.7" stroke-width="1.2" />
+
+      <!-- Rotated square forming 8-pointed Khatam star -->
+      <rect x="-59" y="-59" width="118" height="118" stroke="#94A3B8" stroke-opacity="0.16" stroke-width="1" />
+      <rect x="-38" y="-38" width="76" height="76" stroke="#1F6F54" stroke-opacity="0.35" stroke-width="1.2" />
+
+      <!-- Graph nodes at vertices -->
+      <circle cx="0" cy="-84" r="3.5" fill="#E2E8F0" fill-opacity="0.85" />
+      <circle cx="84" cy="0" r="3.5" fill="#D98A54" />
+      <circle cx="0" cy="84" r="3.5" fill="#E2E8F0" fill-opacity="0.85" />
+      <circle cx="-84" cy="0" r="3.5" fill="#34D399" fill-opacity="0.85" />
+      <circle cx="0" cy="0" r="4.5" fill="#FFFFFF" />
+
+      <!-- Fine connecting axes -->
+      <line x1="-140" y1="0" x2="140" y2="0" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1" />
+      <line x1="0" y1="-130" x2="0" y2="130" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1" />
+    </g>
+
+    <!-- Eyebrow label -->
+    <g transform="translate(68, 62)">
+      <rect x="0" y="0" width="234" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="1" />
+      <circle cx="15" cy="13" r="3.5" fill="#D98A54" />
+      <text x="27" y="17" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6" fill="#E2E8F0">DATA &amp; AI SYSTEMS ENGINEER</text>
+    </g>
+
+    <!-- Main Name -->
+    <text x="68" y="148" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.2" fill="#FFFFFF">Oualid Ghaffari</text>
+
+    <!-- Subtitle -->
+    <text x="68" y="186" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="17" font-weight="400" fill="#94A3B8">
+      Agentic Workflows  ·  PyTorch &amp; RL Decision Systems  ·  Distributed GPU Inference
+    </text>
+
+    <!-- Bottom capability pills -->
+    <g transform="translate(68, 222)" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="12" font-weight="500">
+      <rect x="0" y="0" width="146" height="30" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="16" y="19" fill="#E2E8F0">LangGraph &amp; HITL</text>
+
+      <rect x="158" y="0" width="166" height="30" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="174" y="19" fill="#E2E8F0">PyTorch · PPO · LinUCB</text>
+
+      <rect x="336" y="0" width="168" height="30" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="352" y="19" fill="#E2E8F0">vLLM · T4 Quantization</text>
+
+      <rect x="516" y="0" width="142" height="30" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="532" y="19" fill="#E2E8F0">FastAPI · Next.js</text>
+    </g>
+
+    <!-- Subtle outer border -->
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1" />
+  </g>
+</svg>
